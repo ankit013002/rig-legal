@@ -1,7 +1,5 @@
-# Rig legal & support
+# Rig: moved
 
-Privacy policy, support, and terms for the Rig iOS app (Rig: Know Your PC), published via GitHub Pages.
-
-- Privacy: /privacy.html
-- Support: /support.html
-- Terms: /terms.html
+Rig's privacy policy, terms and support pages now live at **https://petalformllc.com/apps/rig/**.
+Every page of this GitHub Pages site redirects to its new address, so old links keep working.
+Edit the documents in the `petalformllc-site` repo (`content/legal/rig/`), not here.
